@@ -37,6 +37,7 @@ const styles = StyleSheet.create({
   default: {
     fontSize: 16,
     lineHeight: 24,
+    fontFamily: 'NanumSquareNeo',
   },
   defaultSemiBold: {
     fontSize: 16,
@@ -45,8 +46,9 @@ const styles = StyleSheet.create({
   },
   title: {
     fontSize: 32,
-    fontWeight: 'bold',
+    
     lineHeight: 32,
+    fontFamily: 'NanumSquareNeo',
   },
   subtitle: {
     fontSize: 20,
